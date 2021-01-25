@@ -2,7 +2,7 @@
 
 Thanos destruiu nossos endpoints, voltamos no tempo para reconstruí-los antes que seja tarde demais. Esse é um projeto de demonstração de implementação de parte de uma API Rest utilizando o Spring Boot.
 
-## Utilização:
+## Iniciando a Aplicação:
 
 Acesse o diretório:
 \marvel-api\target\
@@ -12,7 +12,7 @@ Execute:
 java -jar marvel-api-0.0.1-SNAPSHOT.jar
 ```
 
-## Como Usar:
+## Como Utilizar:
 
 `GET`
 * `/v1/public/personagens`
